@@ -15,3 +15,6 @@ this repo is the result of tutorial at https://learndjango.com/tutorials/hello-w
       4. add a Template
       5. add a view to read from the database
    
+To play around
+1. Create VENV
+2. install django
